@@ -34,7 +34,7 @@ extensions = ['sphinx.ext.autodoc']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['ntemplates']
-source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
 master_doc = 'index'
 version = '0.0.1'
 # List of patterns, relative to source directory, that match files and

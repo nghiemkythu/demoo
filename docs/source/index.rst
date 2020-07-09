@@ -18,9 +18,11 @@ Bạn có thể liên lạc thông qua thông tin sau.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Một số thông tin liên lạc
-
+  
    /Need Help
+   
 
 Indices and tables
 ==================

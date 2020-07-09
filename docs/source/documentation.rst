@@ -2,6 +2,6 @@ Documentation
 =============
 
  
-.. image:: image/machine learning/machine learning.png
-    :width: 500
+.. image:: image/machinelearning/tongquan.png
+   :width: 500
     

@@ -11,14 +11,16 @@ Welcome to Library's documentation!
 Một số thông tin liên lạc
 -------------------------
 
+Bạn có thể liên lạc thông qua thông tin sau.
+
 * **Cần giúp đỡ**:
-   :doc:`Need help </Need Help>`
+  :doc:`Need help </Need Help>`
 
 .. toctree::
    :maxdepth: 2
    :caption: Một số thông tin liên lạc
 
-   Need Help
+   /Need Help
 
 Indices and tables
 ==================

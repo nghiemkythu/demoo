@@ -6,14 +6,19 @@
 Welcome to Library's documentation!
 ===================================
 
+Đây là nơi mà các bạn có thể tham khảo các tài liệu do câu lạc bô NKSC viết.
+
+Một số thông tin liên lạc
+-------------------------
+
+* **Cần giúp đỡ**:
+   :doc:`Need help </Need Help>`
+
 .. toctree::
    :maxdepth: 2
+   :caption: Một số thông tin liên lạc
 
-   documentation
    Need Help
-   :caption: Contents:
-
-
 
 Indices and tables
 ==================

@@ -24,9 +24,4 @@ Bạn có thể liên lạc thông qua thông tin sau.
    /Need Help
    
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -23,5 +23,19 @@ Bạn có thể liên lạc thông qua thông tin sau.
   
    /Need Help
    
+Machine Learning
+----------------
 
+Machine learning gồm các kiến thức sau:
+
+* **Tổng Quan**:
+  :doc:`machine learning</documentation>`  
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Machine learning
+
+   /documentation
+  
 

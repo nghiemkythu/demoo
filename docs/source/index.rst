@@ -8,6 +8,9 @@ Welcome to Library's documentation!
 
 .. toctree::
    :maxdepth: 2
+
+   documentation
+   Need Help
    :caption: Contents:
 
 

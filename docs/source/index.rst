@@ -23,19 +23,25 @@ Bạn có thể liên lạc thông qua thông tin sau.
   
    /Need Help
    
-Machine Learning
+Kien Thuc
 ----------------
 
-Machine learning gồm các kiến thức sau:
+Nơi đây chứa đựng các tài liệu và các hướng dẫn bạn có thể tham khảo.
 
-* **Tổng Quan**:
+* **Tổng Quan Machine Learning**:
   :doc:`machine learning</documentation>`  
+
+* **Bài report mẫu**
+  :doc:`mẫu reprt</report>`
+
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Machine learning
+   :caption: Kien Thuc
+
 
    /documentation
-  
+   /report
+
 

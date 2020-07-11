@@ -26,19 +26,25 @@ Tài liệu tham khảo
 
 Nơi đây chứa đựng các tài liệu về các lĩnh vực bạn có thể tìm hiểu.
 
-* **Kĩ Thuật**:
+Kĩ Thuật:
+~~~~~~~~~
 
-* **Vật Lý**:
+Vật Lý:
+~~~~~~~
 
-* **Hóa Học**:
+Hóa Học:
+~~~~~~~~
 
-* **Sinh Học**:
+Sinh Học:
+~~~~~~~~~
 
-* **Toán**:
+Toán Học:
+~~~~~~~~~
 
-* **Các form mẫu**:
+Các form mẫu:
+~~~~~~~~~~~~~
 
-:form report mẫu: :doc:`report</Các form mẫu/documentation>`
+* **Form report mẫu**: :doc:`report</Các form mẫu/documentation>`
 
 .. toctree::
    :maxdepth: 2

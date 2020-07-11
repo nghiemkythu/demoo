@@ -32,6 +32,7 @@ Nội dung bài nói
 ~~~~~~~~~~~~~~~~
 
 Phần thuyết trình
+`````````````````
 
 * **Tiêu đề phần 1**
 
@@ -65,7 +66,7 @@ Phần thuyết trình
 
 
 Phần hỏi đáp
-
+````````````
 
 **Q1 (Tên người hỏi nếu cần)**: Ghi câu hỏi vào đây
 

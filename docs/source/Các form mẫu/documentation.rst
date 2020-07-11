@@ -1,10 +1,6 @@
 Form report mẫu
 ===============
 
- 
-Mẫu report tiêu chuẩn
-=====================
-
 WEBINAR SUMMARY REPORT #1
 07.11.2020
 ─

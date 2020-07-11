@@ -118,6 +118,6 @@ Nhận xét của người tham dự
 
 Tổng kết lại feedback của người tham dự (nếu có).
 
-.. :Example:
+.. Example::
 
     mmmmmmmmmm

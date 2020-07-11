@@ -3,45 +3,46 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Library's documentation!
-===================================
+Thư viện của câu lạc bộ NKSC !
+==============================
 
-Đây là nơi mà các bạn có thể tham khảo các tài liệu do câu lạc bô NKSC viết.
+-Đây là nơi mà các bạn có thể tham khảo các tài liệu về các phân môn và các thông tin về các sự
+kiện do câu lạc bô NKSC viết.
 
-Một số thông tin liên lạc
--------------------------
 
-Bạn có thể liên lạc thông qua thông tin sau.
+Thông tin về các sự kiện và các bài giảng.
+------------------------------------------
 
-* **Cần giúp đỡ**:
-  :doc:`Need help </Need Help>`
+-Các bạn có thể tải các bài giảng được trình bày trong các sự kiện. 
+
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Một số thông tin liên lạc
-  
-   /Need Help
-   
-Kien Thuc
-----------------
 
-Nơi đây chứa đựng các tài liệu và các hướng dẫn bạn có thể tham khảo.
+Tài liệu tham khảo
+------------------
 
-* **Tổng Quan Machine Learning**:
-  :doc:`machine learning</documentation>`  
+Nơi đây chứa đựng các tài liệu về các lĩnh vực bạn có thể tìm hiểu.
 
-* **Bài report mẫu**
-  :doc:`mẫu reprt</report>`
+* **Kĩ Thuật**:
+
+* **Vật Lý**:
+
+* **Hóa Học**:
+
+* **Sinh Học**:
+
+* **Toán**:
+
+* **Các form mẫu**:
 
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Kien Thuc
+   :caption: 
 
-
-   /documentation
-   /report
 
 

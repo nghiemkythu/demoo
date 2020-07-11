@@ -38,11 +38,14 @@ Nơi đây chứa đựng các tài liệu về các lĩnh vực bạn có thể
 
 * **Các form mẫu**:
 
+:form report mẫu: :doc:`report</Các form mẫu/documentation>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 
+   :caption: Tài liệu tham khảo 
+
+   /Các form mẫu/documentation
 
 
 

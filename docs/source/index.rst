@@ -41,7 +41,7 @@ Sinh Học:
 Toán Học:
 ~~~~~~~~~
 
-:role:`bai</report>`
+:ref:`bai</report>`
 
 Các form mẫu:
 ~~~~~~~~~~~~~

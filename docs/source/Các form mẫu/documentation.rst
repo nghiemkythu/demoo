@@ -1,7 +1,7 @@
 Form report mẫu
 ===============
 
-:ref:`Thông tin chung`
+:ref:`/documentation:Thông tin chung`
 
 WEBINAR SUMMARY REPORT #1
 07.11.2020

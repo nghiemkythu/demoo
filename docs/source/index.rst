@@ -41,7 +41,7 @@ Sinh Học:
 Toán Học:
 ~~~~~~~~~
 
-:ref:`</report>`
+
 
 Các form mẫu:
 ~~~~~~~~~~~~~

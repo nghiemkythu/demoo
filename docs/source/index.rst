@@ -41,6 +41,8 @@ Sinh Học:
 Toán Học:
 ~~~~~~~~~
 
+:role:`bai</report>`
+
 Các form mẫu:
 ~~~~~~~~~~~~~
 
@@ -52,6 +54,6 @@ Các form mẫu:
    :caption: Tài liệu tham khảo 
 
    /Các form mẫu/documentation
-
-
+   /report
+   
 

@@ -1,7 +1,7 @@
 Form report mẫu
 ===============
 
-:ref:`ttt <Các-form-mẫu/documentation:Thông tin chung>`
+
 
 WEBINAR SUMMARY REPORT #1
 07.11.2020
@@ -17,7 +17,7 @@ WEBINAR SUMMARY REPORT #1
 **Số người tham dự**: ...
 
 Thông tin chung
----------------
+~~~~~~~~~~~~~~~
 
 * **Thông tin diễn giả**: PTNK L1518 - Khóa 2020, Khoa Kỹ thuật điện, đại học Princeton, Mỹ
  
@@ -119,5 +119,3 @@ Nhận xét của người tham dự
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tổng kết lại feedback của người tham dự (nếu có).
-
-:download:`ttt </_static/DANH SÁCH GROUP 6- THUYẾT TRÌNH ANH-MATH 1821.docx>`

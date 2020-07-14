@@ -13,7 +13,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
-import sphinx_hoverxref
+
 
 # -- Project information -----------------------------------------------------
 
@@ -35,7 +35,6 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'hoverxref.extension',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -70,3 +69,4 @@ hoverxref_role_types = {
     'ref': 'tooltip',  # for hoverxref_auto_ref config
     'confval': 'tooltip',  # for custom object
 }
+hoverxref_auto_ref = True

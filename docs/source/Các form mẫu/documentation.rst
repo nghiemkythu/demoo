@@ -120,4 +120,4 @@ Nhận xét của người tham dự
 
 Tổng kết lại feedback của người tham dự (nếu có).
 
-:dowload:`ttt </_static/DANH SÁCH GROUP 6- THUYẾT TRÌNH ANH-MATH 1821.docx>`
+:download:`ttt </_static/DANH SÁCH GROUP 6- THUYẾT TRÌNH ANH-MATH 1821.docx>`

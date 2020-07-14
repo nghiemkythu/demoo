@@ -34,16 +34,7 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'djangodocs',
-    'doc_extensions',
-    'sphinx_tabs.tabs',
-    'sphinx-prompt',
-    'recommonmark',
-    'notfound.extension',
-    'hoverxref.extension',
-    'sphinx_search.extension',
-    'sphinxemoji.sphinxemoji',
+    'sphinx.ext.intersphinx'
 ]
 
 # Add any paths that contain templates here, relative to this directory.

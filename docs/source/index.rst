@@ -46,14 +46,14 @@ Toán Học:
 Các form mẫu:
 ~~~~~~~~~~~~~
 
-* **Form report mẫu**: :doc:`report</Các form mẫu/documentation>`
+* **Form report mẫu**: :doc:`report</Các-form-mẫu/documentation>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Tài liệu tham khảo 
 
-   /Các form mẫu/documentation
+   /Các-form-mẫu/documentation
    
    
 

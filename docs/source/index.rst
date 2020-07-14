@@ -43,7 +43,7 @@ Toán Học:
 Các form mẫu:
 ~~~~~~~~~~~~~
 
-* **Form report mẫu**: :doc:`report</Các-form-mẫu/documentation>`
+* **Form report**: :doc:`report</Các-form-mẫu/documentation>`
 
 .. toctree::
    :maxdepth: 2

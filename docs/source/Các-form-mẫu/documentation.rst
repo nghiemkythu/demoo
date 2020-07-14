@@ -17,7 +17,7 @@ WEBINAR SUMMARY REPORT #1
 **Số người tham dự**: ...
 
 Thông tin chung
-===============
+---------------
 
 * **Thông tin diễn giả**: PTNK L1518 - Khóa 2020, Khoa Kỹ thuật điện, đại học Princeton, Mỹ
  

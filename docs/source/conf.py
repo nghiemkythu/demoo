@@ -62,6 +62,12 @@ html_static_path = ['nstatic']
 html_css_files = [
     'css/custom.css',
 ]
+hoverxref_auto_ref = True
+hoverxref_domains = ['py']
+hoverxref_roles = [
+    'option',
+    'doc',
+]
 hoverxref_role_types = {
     'mod': 'modal',  # for Python Sphinx Domain
     'doc': 'modal',  # for whole docs
@@ -69,4 +75,3 @@ hoverxref_role_types = {
     'ref': 'tooltip',  # for hoverxref_auto_ref config
     'confval': 'tooltip',  # for custom object
 }
-hoverxref_auto_ref = True

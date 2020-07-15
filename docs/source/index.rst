@@ -4,7 +4,7 @@ Thư viện của câu lạc bộ NKSC !
 ==============================
 
 -Đây là nơi mà các bạn có thể tham khảo các tài liệu về các phân môn và các thông tin về các sự
-kiện do câu lạc bô NKSC viết.
+kiện do câu lạc bộ NKSC viết.
 
 
 Thông tin về các sự kiện và các bài giảng.

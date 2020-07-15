@@ -16,7 +16,7 @@ Thông tin về các sự kiện và các bài giảng.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Một số thông tin liên lạc
+   :caption: 
 
 Tài liệu tham khảo
 ------------------

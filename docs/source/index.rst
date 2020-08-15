@@ -47,5 +47,6 @@ Kho tài liệu dự án và nghiên cứu NKSC
    :hidden:
    :caption: 
 
-
+.. image:: images/honors-awards.png
+  :width: 400
 

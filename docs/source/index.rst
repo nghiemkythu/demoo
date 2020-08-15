@@ -23,34 +23,25 @@ Tài liệu tham khảo
 
 Nơi đây chứa đựng các tài liệu về các lĩnh vực bạn có thể tìm hiểu.
 
-Kĩ Thuật:
-~~~~~~~~~
+1.Tài liệu cá nhân:
+~~~~~~~~~~~~~~~~~~~
 
-Vật Lý:
-~~~~~~~
+2.Tài liệu dự án:
+~~~~~~~~~~~~~~~~~
 
-Hóa Học:
-~~~~~~~~
+3.Communications:
+~~~~~~~~~~~~~~~~~
 
-Sinh Học:
-~~~~~~~~~
+4.Hướng dẫn sử dụng:
+~~~~~~~~~~~~~~~~~~~~
 
-Toán Học:
-~~~~~~~~~
+5.Thuyết trình: 
+~~~~~~~~~~~~~~~
+
+6.Xử lý dữ liệu:
+~~~~~~~~~~~~~~~~
 
 
 
-Các form mẫu:
-~~~~~~~~~~~~~
-
-* **Form report**: :doc:`report</Các-form-mẫu/documentation>`
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Tài liệu tham khảo 
-
-   /Các-form-mẫu/documentation
-   
    
 

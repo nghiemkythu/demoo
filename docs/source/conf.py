@@ -62,6 +62,11 @@ html_static_path = ['nstatic']
 html_css_files = [
     'css/custom.css',
 ]
+html_context = {
+"display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+"last_updated": True,
+"commit": False,
+}
 hoverxref_auto_ref = True
 hoverxref_domains = ['py']
 hoverxref_roles = [

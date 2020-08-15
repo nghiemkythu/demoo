@@ -53,4 +53,4 @@ Kho tài liệu dự án và nghiên cứu NKSC
 :doc:`sphinx:usage/extensions/intersphinx`
 :doc:`Intersphinx <sphinx:usage/extensions/intersphinx>`
    
-:ref:`python:Intro`
+:ref:`python:stream-data-from-arduino-into-excel-f1bede`

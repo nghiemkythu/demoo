@@ -48,6 +48,9 @@ Kho tài liệu dự án và nghiên cứu NKSC
    :caption: 
 
 
-
+:ref:`sphinx:ref-role`
+:ref:`:ref: role <sphinx:ref-role>`
+:doc:`sphinx:usage/extensions/intersphinx`
+:doc:`Intersphinx <sphinx:usage/extensions/intersphinx>`
    
 

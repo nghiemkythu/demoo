@@ -2,6 +2,10 @@
 OUTLINE
 #######################################################
 
+:Writer: Khánh Linh
+
+:Editor: Thiên Phúc
+
 .. contents:: Mục lục
     :depth: 2
     :local:

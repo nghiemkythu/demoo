@@ -16,7 +16,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
    :caption: 1.Tài liệu cá nhân:
    
    
-   /Hướng-dẫn-sử-dụng/Khanh_Linh-Resume
+   RESUME</Hướng-dẫn-sử-dụng/Khanh_Linh-Resume>
 
 
 2.Tài liệu dự án:

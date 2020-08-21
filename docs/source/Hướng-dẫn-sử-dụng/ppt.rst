@@ -27,7 +27,7 @@ POWERPOINT DÙNG TRONG LỚP HỌC
     :local:
 
 =======================================================
- Tại sao nên dùng powerpoint cho thuyết trình?
+1. Tại sao nên dùng powerpoint cho thuyết trình?
 =======================================================
 Thuộc các chương trình Microsoft Office, Powerpoint luôn được biết đến như một công cụ, đơn giản, dễ sử dụng, lại rất hiệu quả khi xây dựng một bài trình chiếu. Powerpoint được sử dụng rất rộng rãi, từ các bài giảng của thầy cô trên lớp đến những hội thảo, báo cáo khoa học, hay những buổi giới thiệu sản phẩm. 
 
@@ -40,30 +40,30 @@ Thuộc các chương trình Microsoft Office, Powerpoint luôn được biết 
     Credit: `Udemy <https://www.udemy.com/course/how-to-create-viral-powerpoint-presentations/>`_
 
 =======================================================
-Các nguyên tắc khi làm slide
+2. Các nguyên tắc khi làm slide
 =======================================================
 Tuy để thành thạo Powerpoint cần khá nhiều thời gian luyện tập, nhưng một file Powerpoint luôn có những nguyên tắc cơ bản mà người mới học vẫn có thể nắm được. 
 
 -------------------------------------------------------
-Thiết kế đơn giản, gọn nhẹ
+2.1. Thiết kế đơn giản, gọn nhẹ
 -------------------------------------------------------
 Dùng các animation (hiệu ứng động) để hiện lần lượt các ý cần nói là một điều hoàn toàn tốt, nhưng lạm dụng nó sẽ gây nên cảm giác khó chịu và làm xao nhãng người xem. Dùng các animation có thời lượng ngắn, nhanh. 
 
 -------------------------------------------------------
-Số lượng từ trong mỗi slide vừa phải
+2.2. Số lượng từ trong mỗi slide vừa phải
 -------------------------------------------------------
 Dùng câu từ ngắn gọn hết sức có thể trong slide. Người xem chỉ cần đọc lướt qua là hiểu được nội dung chính của slide. Một quy tắc là giữ mỗi slide dưới 40 từ. Điều quan trọng nhất trong một bài thuyết trình là người thuyết trình, không phải bài powerpoint. Không nên để người xem tập trung vào powerpoint và quên mất người thuyết trình!
 
 -------------------------------------------------------
-Dùng hình ảnh minh họa
+2.3. Dùng hình ảnh minh họa
 -------------------------------------------------------
 Đặc biệt khi biểu diễn số liệu, hay thông tin ảnh, hình ảnh sẽ nói lên được rất nhiều thay vì chỉ dùng chữ.
 
 =======================================================
-Các thao tác đơn giản trên Powerpoint
+3. Các thao tác đơn giản trên Powerpoint
 =======================================================
 -------------------------------------------------------
-Chọn và download template
+3.1. Chọn và download template
 -------------------------------------------------------
 Để việc thiết kế trở nên dễ dàng và thống nhất, bạn có thể lên mạng để download các template có sẵn. Một số trang web thông dụng:
 
@@ -72,7 +72,7 @@ Chọn và download template
 * `Powerpointify <https://powerpointify.com/category/free-templates/>`_
 
 -------------------------------------------------------
-Thêm animation hoặc transition
+3.2. Thêm animation hoặc transition
 -------------------------------------------------------
 Transition là các hiệu ứng động khi chuyển từ slide này sang slide khác. Animation là các hiệu ứng động của các vật thể trong 1 slide (text box, hình ảnh, …)
 
@@ -113,7 +113,7 @@ Các bước để thêm animation cho các vật thể trong slide:
     Credit: `10 Mẹo và Thủ thuật đơn giản với hiệu ứng động trong PowerPoint`_
 
 -------------------------------------------------------
-Dẫn đường đến slide khác (hyperlink)
+3.3. Dẫn đường đến slide khác (hyperlink)
 -------------------------------------------------------
 Để chuyển đến một slide bất kỳ bằng cách nhấp vào một vật bất kỳ trên slide, ta áp cho nó một cái gọi là hyperlink. Khi nhấp vào vật, powerpoint tự động chuyển đến slide được định sẵn trong hyperlink. 
 
@@ -124,12 +124,12 @@ Các bước để thêm hyperlink:
 * Trong mục Mouse Click, chọn option Hyperlink to. Nếu muốn chuyển đến một slide bất kỳ, nhấp vào option Slide… Trong đó bạn sẽ chọn được một slide bất kỳ trong bài powerpoint. 
 
 =======================================================
-Trình bày số liệu
+4. Trình bày số liệu
 =======================================================
 Trình bày số liệu là một yếu tố cốt lõi khi bài thuyết trình cần cung cấp những thông tin liên quan thống kê, số liệu đến người xem. Các phương pháp trình bày số liệu thông dụng bao gồm bảng số liệu và các loại đồ thị (biểu đồ cột, biểu đồ tròn, …). Vì thế, kỹ năng vẽ bảng số liệu trong Powerpoint là rất cần thiết.
 
 -------------------------------------------------------
-Đồ thị
+4.1. Đồ thị
 -------------------------------------------------------
 Tuy nhiên, một điều cần lưu ý là, các biểu đồ, đồ thị định dạng trong Powerpoint sử dụng số liệu trong bảng Excel. 
 
@@ -185,7 +185,7 @@ Các bước để chèn thêm biểu đồ vào bài powerpoint:
 
 
 -------------------------------------------------------
-Bảng số liệu
+4.2. Bảng số liệu
 -------------------------------------------------------
 Bảng số liệu là công cụ rất tiện lợi trong việc tóm tắt thông tin hoặc báo cáo kết quả. 
 
@@ -203,7 +203,7 @@ Các bước để chèn thêm bảng số liệu vào Powerpoint:
 * Để điều chỉnh các thiết kế của bảng số liệu, nhấp chọn bảng. Ở toolbar, nhấp chọn Table Design hoặc Layout. Có rất nhiều lựa chọn để thay đổi, chỉnh sửa thiết kế của bảng số liệu cho phù hợp.
 
 -------------------------------------------------------
-Các biểu đồ SmartArt
+4.3. Các biểu đồ SmartArt
 -------------------------------------------------------
 Các biểu đồ SmartArt có thể làm tăng tính sinh động của slide thông qua các biểu đồ dễ đọc, dễ hiểu, bắt mắt người xem. Có rất nhiều thiết kế có sẵn cho biểu đồ SmartArt, phù hợp cho lựa chọn của người thuyết trình. 
 
@@ -222,7 +222,7 @@ Các bước để chèn thêm biểu đồ SmartArt vào Powerpoint:
 * Để chỉnh sửa, nhấp chọn biểu đồ SmartArt. Ở toolbar, chọn mục SmartArt Design hoặc Format. 
 
 =======================================================
-Các thao tác khác
+5. Các thao tác khác
 =======================================================
 **Chèn video:** Mở đầu hoặc kết thúc một bài thuyết trình bằng một video ngắn là một phương pháp khá thông dụng trong việc thu hút sự quan tâm của người xem. Gần đây, ngày càng nhiều bài trình chiếu sử dụng các video ngắn chèn giữa vào nội dung bài thuyết trình. 
 
@@ -235,6 +235,6 @@ Chức năng đính kèm video vào slide khá đơn giản, bao gồm các bư�
     * Chọn Video from my PC, upload video từ máy tính vào (các định dạng hợp lệ: .asf, .avi, .mp4, .mov, .wmv,…)
 
 =======================================================
-Lời kết
+6. Lời kết
 =======================================================
 Trong rất nhiều lĩnh vực, kỹ năng sử dụng Powerpoint là rất cần thiết. Tuy nhiên, kỹ năng nào cũng cần được rèn luyện mới thành thạo. Qua bài viết này, tác giả mong người đọc có cái nhìn sơ bộ nhất về những tính năng của Powerpoint, từ đó tự luyện tập thêm để có thể thiết kế một bài Powerpoint hoàn chỉnh.

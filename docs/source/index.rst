@@ -24,12 +24,15 @@ Kho tài liệu dự án và nghiên cứu NKSC
   
   :doc:`POWER POINT</Hướng-dẫn-sử-dụng/ppt>`	
 
+  :doc:`RESUME</Hướng-dẫn-sử-dụng/Khanh_Linh-Resume>`
+
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 4.Hướng dẫn sử dụng:
    
-   /Hướng-dẫn-sử-dụng/ppt
+   POWER POINT</Hướng-dẫn-sử-dụng/ppt>
+   /Hướng-dẫn-sử-dụng/Khanh_Linh-Resume
 
 5.Thuyết trình: 
 ~~~~~~~~~~~~~~~

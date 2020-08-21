@@ -18,8 +18,9 @@ POWERPOINT DÙNG TRONG LỚP HỌC
 
     Powerpoint được sử dụng cho bài viết này là Powerpoint 2019.
 
-    :Người viết: Thiên Phúc
-    :Người chỉnh sửa: Tường Anh
+    :Writer: Thiên Phúc
+
+    :Editor: Tường Anh
 
 .. contents:: Mục lục
     :depth: 2

@@ -91,85 +91,85 @@ dẫn)*
 
 **Bảng 2: Các mục chính của report và minh họa**
 
-+-----------------------+-----------------------+-----------------------+
-| **Các**               | **Nội dung**          | **Hình ảnh minh họa** |
-|                       |                       |                       |
-| **mục chính**         | **sơ lược**           | :sup:`[1][2][3]`      |
-+=======================+=======================+=======================+
-| Title                 | Một tựa đề tóm tắt về | |image14|             |
-|                       | tổng thể nghiên cứu   |                       |
-| of report             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Table of              | Liệt kê hết tất cả    | |image15|             |
-|                       | các mục/nội dung của  |                       |
-| contents              | report                |                       |
-+-----------------------+-----------------------+-----------------------+
-| Abstract/             | Tóm tắt kết quả/kết   | |image16|             |
-|                       | luận của nghiên cứu   |                       |
-| Synopsis              | và phương pháp nghiên |                       |
-|                       | cứu                   |                       |
-+-----------------------+-----------------------+-----------------------+
-| Introduc-             | Vấn đề nghiên cứu và  | |image17|             |
-|                       | lý do tiến hành       |                       |
-| tion                  | nghiên cứu            |                       |
-+-----------------------+-----------------------+-----------------------+
-| Literature            | Viết về một vài       | |image18|             |
-|                       | nghiên cứu liên quan  |                       |
-| Review                | lấy làm cơ sở lí luận | |image19|             |
-|                       | hay cơ sở lý thuyết   |                       |
-|                       |                       |                       |
-|                       | Bạn cũng có thể trình |                       |
-|                       | bày các định nghĩa    |                       |
-|                       | mới, đặc điểm, số     |                       |
-|                       | liệu và công cụ được  |                       |
-|                       | sử dụng trong nghiên  |                       |
-|                       | cứu của mình trong    |                       |
-|                       | phần này.             |                       |
-+-----------------------+-----------------------+-----------------------+
-| Methodology           | Phương pháp tiến hành | |image20|             |
-|                       | nghiên cứu, công cụ,  |                       |
-|                       | nguyên liệu sử dụng,  |                       |
-|                       | đối tượng nghiên cứu, |                       |
-|                       | phương pháp đo lường, |                       |
-|                       | phân tích dữ liệu...  |                       |
-+-----------------------+-----------------------+-----------------------+
-| Results               | Kết quả thu được sau  | |image21|             |
-|                       | khi tiến hành thí     |                       |
-|                       | nghiệm                |                       |
-+-----------------------+-----------------------+-----------------------+
-| Discussion            | Bàn luận về kết quả   | |image22|             |
-|                       | nghiên cứu, kết quả   |                       |
-|                       | đó liên quan như thế  |                       |
-|                       | nào với những nghiên  |                       |
-|                       | cứu liên quan khác,   |                       |
-|                       | khái quát hóa, ý      |                       |
-|                       | nghĩa hóa kết quả thu |                       |
-|                       | được,...              |                       |
-+-----------------------+-----------------------+-----------------------+
-| Conclusion            | Tóm tắt kết quả thu   | |image23|             |
-|                       | được                  |                       |
-|                       |                       | |image24|             |
-+-----------------------+-----------------------+-----------------------+
-| Recommen-             | Đề xuất, hướng dẫn    |                       |
-|                       | thêm về phương pháp   |                       |
-| dations               | thí nghiệm để đạt     |                       |
-|                       | được kết quả mong     |                       |
-| (có thể gộp vào       | muốn.                 |                       |
-| conclusion)           |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Reference/            | Liệt kê tất cả tài    | |image25|             |
-|                       | liệu đã tham khảo     |                       |
-| Biblio-               |                       |                       |
-|                       |                       |                       |
-| graphy                |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Appen-                | Danh mục tất cả các   | |image26|             |
-|                       | tài liệu/ thông tin   |                       |
-| dices                 | đi kèm được chỉ định  | |image27|             |
-|                       | trong report (để làm  |                       |
-|                       | rõ thêm một thông tin |                       |
-|                       | nào đó trong report)  |                       |
-+-----------------------+-----------------------+-----------------------+
++----------------+-----------------------+-----------------------------------------------+
+| **Các**        | **Nội dung**          | **Hình ảnh minh họa**                         |
+|                |                       |                                               |
+| **mục chính**  | **sơ lược**           | :sup:`[1][2][3]`                              |
++================+=======================+===============================================+
+| Title          | Một tựa đề tóm tắt về | |image14|                                     |
+|                | tổng thể nghiên cứu   |                                               |
+| of report      |                       |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Table of       | Liệt kê hết tất cả    | |image15|                                     |
+|                | các mục/nội dung của  |                                               |
+| contents       | report                |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Abstract/      | Tóm tắt kết quả/kết   | |image16|                                     |
+|                | luận của nghiên cứu   |                                               |
+| Synopsis       | và phương pháp nghiên |                                               |
+|                | cứu                   |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Introduc-      | Vấn đề nghiên cứu và  | |image17|                                     |
+|                | lý do tiến hành       |                                               |
+| tion           | nghiên cứu            |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Literature     | Viết về một vài       | |image18|                                     |
+|                | nghiên cứu liên quan  |                                               |
+| Review         | lấy làm cơ sở lí luận | |image19|                                     |
+|                | hay cơ sở lý thuyết   |                                               |
+|                |                       |                                               |
+|                | Bạn cũng có thể trình |                                               |
+|                | bày các định nghĩa    |                                               |
+|                | mới, đặc điểm, số     |                                               |
+|                | liệu và công cụ được  |                                               |
+|                | sử dụng trong nghiên  |                                               |
+|                | cứu của mình trong    |                                               |
+|                | phần này.             |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Methodology    | Phương pháp tiến hành | |image20|                                     |
+|                | nghiên cứu, công cụ,  |                                               |
+|                | nguyên liệu sử dụng,  |                                               |
+|                | đối tượng nghiên cứu, |                                               |
+|                | phương pháp đo lường, |                                               |
+|                | phân tích dữ liệu...  |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Results        | Kết quả thu được sau  | |image21|                                     |
+|                | khi tiến hành thí     |                                               |
+|                | nghiệm                |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Discussion     | Bàn luận về kết quả   | |image22|                                     |
+|                | nghiên cứu, kết quả   |                                               |
+|                | đó liên quan như thế  |                                               |
+|                | nào với những nghiên  |                                               |
+|                | cứu liên quan khác,   |                                               |
+|                | khái quát hóa, ý      |                                               |
+|                | nghĩa hóa kết quả thu |                                               |
+|                | được,...              |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Conclusion     | Tóm tắt kết quả thu   | |image23|                                     |
+|                | được                  |                                               |
+|                |                       | |image24|                                     |
++----------------+-----------------------+-----------------------------------------------+
+| Recommen-      | Đề xuất, hướng dẫn    |                                               |
+|                | thêm về phương pháp   |                                               |
+| dations        | thí nghiệm để đạt     |                                               |
+|                | được kết quả mong     |                                               |
+|(có thể gộp vào | muốn.                 |                                               |
+| conclusion)    |                       |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Reference/     | Liệt kê tất cả tài    | |image25|                                     |
+|                | liệu đã tham khảo     |                                               |
+| Biblio-        |                       |                                               |
+|                |                       |                                               |
+| graphy         |                       |                                               |
++----------------+-----------------------+-----------------------------------------------+
+| Appen-         | Danh mục tất cả các   | |image26|                                     |
+|                | tài liệu/ thông tin   |                                               |
+| dices          | đi kèm được chỉ định  | |image27|                                     |
+|                | trong report (để làm  |                                               |
+|                | rõ thêm một thông tin |                                               |
+|                | nào đó trong report)  |                                               |
++----------------+-----------------------+-----------------------------------------------+
 
 **2. Hướng dẫn viết Research Report**
 
@@ -808,8 +808,8 @@ Các loại template liên quan đến nghiên cứu khoa học nên làm:
 .. |image13| image:: media/image20.png
    :width: 3.97917in
    :height: 5.84722in
-.. |image14| image:: honors-awards.png
-   :width: 3.67632in
+.. |image14| image:: https://i.imgur.com/dT1yvyF.gif
+   :width: 20.2in
    :height: 4.21354in
 .. |image15| image:: media/image9.gif
    :width: 3.96969in

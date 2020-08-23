@@ -8,7 +8,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
 1.Tài liệu cá nhân:
 ~~~~~~~~~~~~~~~~~~~
 
-  :doc:`RESUME</Hướng-dẫn-sử-dụng/Khanh_Linh-Resume>`
+  :doc:`RESUME</Tài-liệu-cá-nhân/Khanh_Linh-Resume>`
 
 .. toctree::
    :maxdepth: 2
@@ -16,7 +16,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
    :caption: 1.Tài liệu cá nhân:
    
    
-   RESUME</Hướng-dẫn-sử-dụng/Khanh_Linh-Resume>
+   RESUME</Tài-liệu-cá-nhân/Khanh_Linh-Resume>
 
 
 2.Tài liệu dự án:
@@ -30,19 +30,22 @@ Kho tài liệu dự án và nghiên cứu NKSC
 4.Hướng dẫn sử dụng:
 ~~~~~~~~~~~~~~~~~~~~
 
-  :doc:`POWER POINT</Hướng-dẫn-sử-dụng/ppt>`	
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 4.Hướng dẫn sử dụng:
-   
-   POWER POINT</Hướng-dẫn-sử-dụng/ppt>
   
 
 5.Thuyết trình: 
 ~~~~~~~~~~~~~~~
+  
+  :doc:`POWER POINT</Thuyết-trình/ppt>`	
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 5.Thuyết trình:
+   
+   POWER POINT</Thuyết-trình/ppt>
+
+  
+  
 6.Xử lý dữ liệu:
 ~~~~~~~~~~~~~~~~
 

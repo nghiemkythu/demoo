@@ -8,6 +8,10 @@ XỬ LÝ BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
     :alt: Help!!
     :figclass: align-center
 
+    :Writer: Nhâm Quân
+
+    :Editor: Khánh Linh
+
 .. contents:: 
     :depth: 3
 

@@ -2,11 +2,11 @@
 XỬ LÝ BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
 ########################################
 
-.. figure:: https://imgur.com/a/vFwHvP7
-    :width: 200px
+.. figure:: https://i.imgur.com/EqJBMwK.jpg
+    :width: 100%
     :align: center
-    :height: 100px
     :alt: Help!!
+    :figclass: align-center
 
 .. contents:: 
     :depth: 3

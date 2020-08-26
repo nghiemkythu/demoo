@@ -32,12 +32,15 @@ Kho tài liệu dự án và nghiên cứu NKSC
 
 * **4.1** :doc:`EXCEL</Hướng-dẫn-sử-dụng/EXCEL>`	
 
+* **4.2** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
+
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 4.Hướng dẫn sử dụng:
    
    EXCEL</Hướng-dẫn-sử-dụng/EXCEL>
+   LATEX</Hướng-dẫn-sử-dụng/LATEX>
 
   
 

@@ -34,6 +34,8 @@ Kho tài liệu dự án và nghiên cứu NKSC
 
 * **4.2** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
 
+* **4.3** :doc:`CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>`
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -41,7 +43,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
    
    EXCEL</Hướng-dẫn-sử-dụng/EXCEL>
    LATEX</Hướng-dẫn-sử-dụng/LATEX>
-   
+   CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>
   
 
 5.Thuyết trình: 

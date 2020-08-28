@@ -34,8 +34,6 @@ Kho tài liệu dự án và nghiên cứu NKSC
 
 * **4.2** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
 
-   :doc:`/Hướng-dẫn-sử-dụng/Julie-RESEARCH_REPORT`
-
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -43,7 +41,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
    
    EXCEL</Hướng-dẫn-sử-dụng/EXCEL>
    LATEX</Hướng-dẫn-sử-dụng/LATEX>
-   /Hướng-dẫn-sử-dụng/Julie-RESEARCH_REPORT
+   
   
 
 5.Thuyết trình: 

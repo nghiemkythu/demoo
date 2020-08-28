@@ -36,11 +36,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
 ]
-intersphinx_mapping = {
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-    'create': ('https://create.arduino.cc/projecthub/HackingSTEM/', None),
-    'python': ('https://docs.python.org/3', None),
-}
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['ntemplates']
 source_suffix = ['.rst', '.md']

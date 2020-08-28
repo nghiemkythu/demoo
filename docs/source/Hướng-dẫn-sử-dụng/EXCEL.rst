@@ -11,24 +11,29 @@ XỬ LÝ, BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
     :depth: 3
     :local:
 
+=======================================================
 1. Tại sao dùng các chương trình bảng tính?
-###########################################
+=======================================================
 
 * Các chương trình bảng tính như Microsoft Excel hay Google Sheets là những công cụ thân thiện với người mới và hiệu quả trong việc quản lý và biểu diễn dữ liệu, đặc biệt là số liệu, và được dùng rất phổ biến trên toàn thế giới. Ở Việt Nam, các học sinh thường được học Excel trong chương trình Tin học phổ thông và vì vậy, biết cách sử dụng Excel từ cơ bản đến nâng cao.
 
 * Bài viết này giới thiệu những bước thu thập, xử lý và biểu diễn số liệu cơ bản bằng những chương trình bảng tính này.
 
+=======================================================
 2. Excel vs Google Sheets
-#########################
+=======================================================
 
+-------------------------------------------------------
 2.1 Điểm mạnh hơn ở Excel so với Google Sheets
-==============================================
+-------------------------------------------------------
+
 * Sở hữu hệ thống tính năng lớn và nâng cao, và nhiều tính năng được nâng cấp hoặc thêm vào ở mỗi phiên bản mới. 
 
 * Là chương trình bảng tính dẫn đầu, và do xuất hiện từ sớm nên có nhiều tài liệu hướng dẫn và có cộng đồng người dùng rộng lớn. Dù vậy, những phiên bản mới hơn của Excel thường đắt và không phù hợp với học sinh.
 
+-------------------------------------------------------
 2.2. Điểm mạnh hơn ở Google Sheets so với Excel
-===============================================
+-------------------------------------------------------
 
 * Miễn phí, hỗ trợ tương tác online. 
 
@@ -36,17 +41,19 @@ XỬ LÝ, BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
 
 Về cơ bản, sự chuyển đổi giữa Excel và Google Sheets chỉ đơn giản là tải lên/ tải xuống các file, vì thế bạn có thể dùng cả hai cùng lúc. Dù vậy, có thể cần phải xác định những tính năng được dùng trong Excel có tồn tại trong Google Sheets (và ngược lại) hay không.
 
-
+=======================================================
 3. Tổng hợp số liệu
-###################
+=======================================================
 
+-------------------------------------------------------
 3.1 Tổng quát
-=============
+-------------------------------------------------------
 
 Sự thu thập, tổng hợp số liệu phụ thuộc vào ứng dụng của bạn. Thông thường, một bảng tính gồm nhiều dòng chứa những entries và nhiều cột để xác định nội dung của từng entry. Nhập hệ thống số liệu này bằng tay thường khá vất vả, vì thế bất kỳ sự tự động hóa nào cũng nên cần được cân nhắc sử dụng trong việc nhập dữ liệu hay sao chép dữ liệu giữa Excel và các hệ thống khác.
 
+-------------------------------------------------------
 3.2 Một số ví dụ trong việc tổng hợp dữ liệu
-============================================
+-------------------------------------------------------
 
 Google Forms:
 
@@ -95,8 +102,9 @@ Google Forms:
     :height: 200px
     :alt: Stream Data from Arduino into Excel, Arduino Project Hub
 
+=======================================================
 4. Xử lý số liệu
-################
+=======================================================
 
 * Có một lượng lớn các hàm và các tính năng bạn có thể dùng để điều khiển và tính toán dữ liệu tùy thuộc vào ứng dụng. Bài viết này sẽ không đi sâu vào cách sử dụng những công cụ này, do đã có rất nhiều hướng dẫn online, tuy nhiên theo kinh nghiệm của mình thì những vấn đề bạn gặp phải thường đã được tiếp cận và xử lý bởi những người đi trước, vì thế bạn có thể vừa dùng Excel vừa google cách sử dụng những tính năng mong muốn.
 
@@ -116,9 +124,9 @@ Google Forms:
     :height: 200px
     :alt: Hồi quy tuyến tính cùng Excel
 
-
+=======================================================
 5. Biểu diễn số liệu
-####################
+=======================================================
 
 * Đối với những tập hợp dữ liệu nhỏ hơn, ta có thể chỉ cần dùng bảng tính để biểu diễn số liệu. Điều này có thể được làm đơn giản và hiệu quả hơn bằng những **bộ lọc (filters)**, và gần đây hơn là những **bảng pivot**. Những tính năng này giúp dễ dàng thu gọn số liệu và chỉ biểu diễn những gì người dùng muốn xem.
 
@@ -135,9 +143,9 @@ Google Forms:
     :height: 200px
     :alt: GIF source - GIPHY
 
-
+=======================================================
 6. Phụ lục: Thiết kế bằng phần mềm chỉnh sửa vector
-###################################################
+=======================================================
 * Nếu bạn dùng Google Sheets hay Excel từ 2013 trở về trước, bạn có thể nhận thấy design của các đồ thị không quá đẹp cũng như không có nhiều cách để chỉnh sửa giao diện. Nếu bạn dùng được các phần mềm chỉnh sửa vector như Adobe Illustrator hay Inkscape thì có thể tự thiết kế infographic từ các đồ thị của Excel hay Google Sheets.
 * Sắp xếp các đồ thị gọn gàng, lưu file dưới dạng PDF.
 

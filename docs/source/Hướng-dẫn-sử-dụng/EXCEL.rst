@@ -1,19 +1,16 @@
 ########################################
-XỬ LÝ BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
+XỬ LÝ, BIỂU DIỄN SỐ LIỆU BẰNG EXCEL
 ########################################
 
-.. figure:: https://i.imgur.com/EqJBMwK.jpg
-    :width: 100%
+.. figure:: https://imgur.com/a/vFwHvP7
+    :width: 200px
     :align: center
-    :alt: Help!!
-    :figclass: align-center
-
-    :Writer: Nhâm Quân
-
-    :Editor: Khánh Linh
+    :height: 100px
+    :alt: 
 
 .. contents:: 
     :depth: 3
+    :local:
 
 1. Tại sao dùng các chương trình bảng tính?
 ###########################################
@@ -56,10 +53,36 @@ Google Forms:
 
 * Là công cụ đơn giản và nhanh gọn để tổ chức khảo sát và thu thập dữ liệu online, và được thiết kế để dùng dễ dàng với Google Sheets. Ở trên là một phiếu khảo sát mình làm để nhận phản hồi từ học sinh của một buổi học online, và những câu trả lời được nhập tự động vào một file bảng tính. 
 
+|pic1|  |pic2| |pic3|
+
+.. |pic1| image:: https://imgur.com/74X62yI.png
+   :width: 40%
+   :height: 150px
+
+.. |pic2| image:: https://imgur.com/ftGhx3u.png
+   :width: 10%
+
+.. |pic3| image:: https://imgur.com/QzWWtWx.png
+   :width: 43%
+
+
 * Ghi lại số liệu thực nghiệm:
 
  * Những dữ liệu từ thực nghiệm có tầm quan trọng lớn trong việc chứng minh, giải thích những định luật có sẵn cũng như làm bằng chứng cho những định luật mới. Do được thiết kế để quản lý số liệu hiệu quả, những chương trình bảng tính trở nên vô cùng hữu hiệu trong việc ghi nhận những số liệu và sử dụng chúng một cách nhanh chóng.
  * Việc sắp xếp và tính toán thêm những số liệu này sẽ được nói đến ở phần tiếp theo.
+
+|pic1|  |pic2| |pic3|
+
+.. |pic1| image:: https://imgur.com/ftGhx3u.png
+   :width: 10%
+
+.. |pic2| image:: https://imgur.com/eRPVxnk.png
+   :width: 45%
+   :height: 170px
+
+
+.. |pic3| image:: https://imgur.com/6QQTHNk.png
+   :width: 40%
 
 * Dữ liệu từ cảm biến:
 
@@ -67,6 +90,11 @@ Google Forms:
 
   Đọc thêm: `Stream Data from Arduino into Excel <https://create.arduino.cc/projecthub/HackingSTEM/stream-data-from-arduino-into-excel-f1bede>`_
 
+.. figure:: https://imgur.com/3t3wUvY.png
+    :width: 300px
+    :align: center
+    :height: 200px
+    :alt: Stream Data from Arduino into Excel, Arduino Project Hub
 
 4. Xử lý số liệu
 ################
@@ -83,6 +111,12 @@ Google Forms:
   * `Cách sử dụng công cụ data analysis <http://tinhocmos.edu.vn/nhung-dieu-can-biet-ve-cong-cu-data-analysis/>`_
   * `Những add-ins hay <https://infogram.com/blog/6-excel-add-ins-to-find-process-and-analyze-your-data-like-a-pro/>`_
 
+.. figure:: https://imgur.com/WE23cqZ.png
+    :width: 300px
+    :align: center
+    :height: 200px
+    :alt: Hồi quy tuyến tính cùng Excel
+
 
 5. Biểu diễn số liệu
 ####################
@@ -96,8 +130,34 @@ Google Forms:
 
  * `Những bước tạo một dashboard tương tác đơn giản <https://www.educba.com/how-to-create-interactive-excel-dashboard/>`_
 
+.. figure:: https://imgur.com/4PW9CD0.png
+    :width: 250px
+    :align: center
+    :height: 200px
+    :alt: GIF source - GIPHY
+
+
 6. Phụ lục: Thiết kế bằng phần mềm chỉnh sửa vector
 ###################################################
 * Nếu bạn dùng Google Sheets hay Excel từ 2013 trở về trước, bạn có thể nhận thấy design của các đồ thị không quá đẹp cũng như không có nhiều cách để chỉnh sửa giao diện. Nếu bạn dùng được các phần mềm chỉnh sửa vector như Adobe Illustrator hay Inkscape thì có thể tự thiết kế infographic từ các đồ thị của Excel hay Google Sheets.
 * Sắp xếp các đồ thị gọn gàng, lưu file dưới dạng PDF.
+
+.. figure:: https://imgur.com/b6ytuoU.png
+    :width: 350px
+    :align: center
+    :height: 220px
+    :alt: GIF source - GIPHY
+
 * Khi mở PDF bằng phần mềm chỉnh sửa vector, bạn có thể sửa trực tiếp các đồ thị. Ungroup, xóa những paths không cần thiết và group những paths cần thiết, và thiết kế theo ý của bạn. Voila!
+
+|NYUAD|  |pic2| |pic3|
+
+.. |NYUAD| image:: https://imgur.com/N80grky.png
+   :width: 40%
+   :height: 150px
+
+.. |pic2| image:: https://imgur.com/ftGhx3u.png
+   :width: 10%
+
+.. |pic3| image:: https://imgur.com/uy8g12j.png
+   :width: 43%

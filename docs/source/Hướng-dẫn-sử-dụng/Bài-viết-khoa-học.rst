@@ -71,12 +71,12 @@ c. Các trang web
    * *“Electronics tuned in twisted bilayer graphene”* Nature News and Comment
    * *“Scientists are more creative than you can imagine”* Alexandra Ossola, The Atlantic
 
-  * **Thân bài**: Tùy theo nội dung của bài viết mà người viết có thể thiết kế thân bài theo một số cách khác nhau. Tuy nhiên, một bài viết khoa học thường thức thông thường sẽ có những phần sau đây:
+ * **Thân bài**: Tùy theo nội dung của bài viết mà người viết có thể thiết kế thân bài theo một số cách khác nhau. Tuy nhiên, một bài viết khoa học thường thức thông thường sẽ có những phần sau đây:
 
    * Bắt đầu đoạn văn bằng câu mở đoạn ngắn gọn, rõ ràng. Câu mở đoạn sẽ truyền tải ý chính mà đoạn văn sẽ bàn luận. Một câu mở đoạn tốt cũng hỗ trợ trong việc chuyển ý nhịp nhàng giữa các đoạn văn. 
    * Nên thêm một vài ví dụ hoặc dẫn chứng để giải thích cho các kết quả hay khái niệm được bàn tới trong bài. 
 
-  * **Kết bài**: Khi viết bài, đừng quên rằng một lời kết thành công cũng rất quan trọng đấy nhé! Một vài nguyên tắc cơ bản để tổng kết lại bài viết:
+ * **Kết bài**: Khi viết bài, đừng quên rằng một lời kết thành công cũng rất quan trọng đấy nhé! Một vài nguyên tắc cơ bản để tổng kết lại bài viết:
 
    * Tạo cho người đọc một ấn tượng rằng khoa học đang không ngừng, và những tiến bộ trong KHKT hay kiến thức khoa học cơ bản sẽ luôn được cập nhật liên tục. 
    * Một kết bài tốt sẽ thôi thúc người đọc tìm hiểu thêm những tài liệu liên quan đến chủ đề bài viết. 

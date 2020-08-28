@@ -27,21 +27,18 @@ Kho tài liệu dự án và nghiên cứu NKSC
 ~~~~~~~~~~~~~~~~~
 
 
-4.Hướng dẫn sử dụng:
-~~~~~~~~~~~~~~~~~~~~
+4.Hướng dẫn sử dụng cho người mới bắt đầu:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	
+* **4.1** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
 
-* **4.1** :doc:`EXCEL</Hướng-dẫn-sử-dụng/EXCEL>`	
-
-* **4.2** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
-
-* **4.3** :doc:`CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>`
+* **4.2** :doc:`CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 4.Hướng dẫn sử dụng:
+   :caption: 4.Hướng dẫn sử dụng cho người mới bắt đầu:
    
-   EXCEL</Hướng-dẫn-sử-dụng/EXCEL>
    LATEX</Hướng-dẫn-sử-dụng/LATEX>
    CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>
   
@@ -63,3 +60,11 @@ Kho tài liệu dự án và nghiên cứu NKSC
 6.Xử lý dữ liệu:
 ~~~~~~~~~~~~~~~~
 
+* **6.1** :doc:`EXCEL</Xử-lý-dữ-liệu/EXCEL>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 6.Xử lý dữ liệu:
+   
+   EXCEL</Xử-lý-dữ-liệu/EXCEL>

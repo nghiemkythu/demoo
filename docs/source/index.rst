@@ -35,7 +35,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
 ~~~~~~~~~~~~~~~~~
 
 
-4.Hướng dẫn sử dụng cho người mới bắt đầu:
+4.Hướng dẫn cơ bản:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	
 * **4.1** :doc:`LATEX</Hướng-dẫn-sử-dụng/LATEX>`
@@ -45,7 +45,7 @@ Kho tài liệu dự án và nghiên cứu NKSC
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 4.Hướng dẫn sử dụng cho người mới bắt đầu:
+   :caption: 4.Hướng dẫn cơ bản:
    
    LATEX</Hướng-dẫn-sử-dụng/LATEX>
    CÁCH VIẾT MỘT BÀI VIẾT KHOA HỌC THƯỜNG THỨC</Hướng-dẫn-sử-dụng/Bài-viết-khoa-học>

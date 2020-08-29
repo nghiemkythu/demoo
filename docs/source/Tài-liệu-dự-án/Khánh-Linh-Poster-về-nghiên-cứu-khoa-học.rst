@@ -185,14 +185,11 @@ của poster và nội dung bài nói, hay thuyết trình cho phù hợp.
 
 Hãy tự đặt câu hỏi cho bản thân:
 
--  Những điều quan trọng nhất/ thú vị nhất/ ấn tượng nhất từ dự án
-      nghiên cứu này là gì?
+-  Những điều quan trọng nhất/ thú vị nhất/ ấn tượng nhất từ dự án nghiên cứu này là gì?
 
--  Sử dụng hình minh họa để biểu diễn bài nghiên cứu như thế nào? Mình
-      nên dùng đồ thị, biểu đồ, hình chụp thế nào cho hiệu quả?
+-  Sử dụng hình minh họa để biểu diễn bài nghiên cứu như thế nào? Mình nên dùng đồ thị, biểu đồ, hình chụp thế nào cho hiệu quả?
 
--  Nếu mình vừa thuyết trình vừa dùng poster, thì mình sẽ muốn có thông
-      tin gì trên poster?
+-  Nếu mình vừa thuyết trình vừa dùng poster, thì mình sẽ muốn có thông tin gì trên poster?
 
 **Layout.** Layout cần rõ ràng, dễ nhìn. Nội dung, câu chữ nên đầy đủ
 nhưng súc tích, dễ đọc, và nên có ít nhất 40% poster là khoảng trắng để

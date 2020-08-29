@@ -22,6 +22,14 @@ Kho tài liệu dự án và nghiên cứu NKSC
 2.Tài liệu dự án:
 ~~~~~~~~~~~~~~~~~
  
+* **2.1** :doc:`POSTER VỀ NGHIÊN CỨU KHOA HỌC</Tài-liệu-dự-án/Khánh-Linh-Poster-về-nghiên-cứu-khoa-học>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 2.Tài liệu dự án:
+   
+   POSTER VỀ NGHIÊN CỨU KHOA HỌC</Tài-liệu-dự-án/Khánh-Linh-Poster-về-nghiên-cứu-khoa-học>
 
 3.Communications:
 ~~~~~~~~~~~~~~~~~

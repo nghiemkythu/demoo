@@ -3,14 +3,16 @@ OUTLINE
 #######################################################
 
 :Writer: Khánh Linh
-
 :Editor: Thiên Phúc
 
-.. contents:: Mục lục
+.. figure:: https://i.imgur.com/4NMFThc.png
+    :width: 80%
+    :align: center
+    :alt:  Resume Stock Image
+    
+.. contents:: Mục lục:
     :depth: 2
     :local:
-
-
 
 =======================================================
 1. Lời mở đầu
@@ -399,7 +401,17 @@ Letters <https://www.coursera.org/learn/resume-writing>`__
 7. Resume mẫu
 =======================================================
 
-Can’t attach pdf here...
+| `Resume của chị Kim Thư`_ 
+| `Resume của anh Hữu Thịnh`_
+| `Resume của bạn Nhâm Quân`_
+| `Resume của bạn Yến Nhi`_
+| `Resume của mình`_
+
+.. _Resume của chị Kim Thư: pdfs/Lê-Kim-Thư.pdf
+.. _Resume của bạn Nhâm Quân: pdfs/Resume2.pdf
+.. _Resume của anh Hữu Thịnh: pdfs/Nguyễn-Hữu-Thịnh-resume.pdf
+.. _Resume của bạn Yến Nhi: pdfs/RESUME.pdf
+.. _Resume của mình: pdfs/Nguyen-Khanh-Linh-resume.pdf
 
 =======================================================
 8. Lời kết
@@ -412,11 +424,9 @@ Mình cũng có định viết về cách viết email và CV nữa, nhưng nói
 mình khá lười, nên nếu bạn quan tâm thì mình sẽ thả nhẹ hai chiếc link ở
 đây.
 
-Viết email:
-https://www.facebook.com/notes/mimy-pham/vi%E1%BA%BFt-i-meo-sao-cho-hi%E1%BB%87u-qu%E1%BA%A3-ph%E1%BA%A7n-1/2963336673722517/
+`Viết email <https://www.facebook.com/notes/mimy-pham/vi%E1%BA%BFt-i-meo-sao-cho-hi%E1%BB%87u-qu%E1%BA%A3-ph%E1%BA%A7n-1/2963336673722517/>`_
 
-Viết CV:
-https://www.facebook.com/notes/mimy-pham/vi%E1%BA%BFt-cv-t%E1%BB%AB-chu%E1%BA%A9n-th%C3%A0nh-chu%E1%BA%A9n-h%C6%A1n-p/2513329718723217/
+`Viết CV <https://www.facebook.com/notes/mimy-pham/vi%E1%BA%BFt-cv-t%E1%BB%AB-chu%E1%BA%A9n-th%C3%A0nh-chu%E1%BA%A9n-h%C6%A1n-p/2513329718723217/>`_
 
 Về những references đã sử dụng trong bài viết này, cảm ơn anh Nguyễn Hữu
 Thịnh (Villanova ‘22) (dù em chưa xin phép anh nữa em xin lỗi :D) đã để

@@ -1,9 +1,15 @@
 
 
-Kho tài liệu dự án và nghiên cứu NKSC
-=====================================
+.. figure:: https://i.imgur.com/Q0IbRml.png
+    :width: 80%
+    :align: center
+    :alt: Ảnh lỗi
+    :figclass: align-center
 
--Đây là nơi mà các bạn có thể tham khảo các tài liệu về các chủ đề khác nhau
+Kho tài liệu dự án và nghiên cứu của câu lạc bộ NK STEAM CLUB được định hướng để tạo ra, tập hợp và cung cấp cho các bạn học sinh, sinh viên những tài liệu mẫu, những hướng dẫn cụ thể và thiết thực trong nhiều chủ đề khác nhau một cách trực quan và đơn giản. Những tài liệu này có thể giúp các bạn bắt đầu sử dụng những phần mềm hay ngôn ngữ lập trình, tự viết những tài liệu cá nhân hay có nền tảng để bổ sung thêm những kỹ năng cần thiết.   
+
+Trang web này và nội dung của kho được viết, điều hành và duy trì bởi các học sinh và cựu học sinh trường Phổ thông Năng Khiếu, Tp. HCM. Mọi thắc mắc xin vui lòng liên hệ ptnksteam@gmail.com
+
 
 1.Tài liệu cá nhân:
 ~~~~~~~~~~~~~~~~~~~
